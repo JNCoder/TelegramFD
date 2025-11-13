@@ -20,7 +20,7 @@
 
 ### 2、下载指定消息链接
 如下图所示，在左边的菜单栏中，选择`下载指定消息`，然后在输入框中粘贴消息链接
-[![下载指定消息链接]](https://www.telegramfd.site/assets/img/github/download-url.gif)
+![下载指定消息链接](https://www.telegramfd.site/assets/img/github/download-url.gif)
 
 ### 3、下载指定范围的消息
 如下图所示，在左边的菜单栏中，选择`下载指定范围的消息`，注意`开始链接`与`结束链接`必须来自于同一个频道或者群组；并且`开始链接后面的数字要小于结束链接后面的数字`
