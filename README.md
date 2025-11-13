@@ -2,7 +2,7 @@
 **忘掉繁琐，拥抱简洁。TelegramFD 拥有直观的界面，让下载 Telegram 文件变得前所未有的简单和愉快；** 
 
 ## 下载
-<p>伸手党：<a href="https://github.com/JNCoder/TelegramFD/realeases" target="_blank">免费版</a></p>
+<p>伸手党：<a href="https://github.com/JNCoder/TelegramFD/releases" target="_blank">免费版</a></p>
 <p>土豪大老板：<a href="https://www.telegramfd.site/index.html#pricing" target="_blank">正式版</a></p>
 
 ## 简介
