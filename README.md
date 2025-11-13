@@ -1,8 +1,9 @@
 # TelegramFD - 极速Telegram内容下载工具
-**忘掉繁琐，拥抱简洁。TelegramFD 拥有直观的界面，让下载 Telegram 文件变得前所未有的简单和愉快。**
+**忘掉繁琐，拥抱简洁。TelegramFD 拥有直观的界面，让下载 Telegram 文件变得前所未有的简单和愉快；** 
 
-## 下载地址
-[免费版](https://github.com/JNCoder/TelegramFD/releases)
+## 下载
+<p>伸手党：<a href="https://github.com/JNCoder/TelegramFD/realeases" target="_blank">免费版</a></p>
+<p>土豪大老板：<a href="https://www.telegramfd.site/index.html#pricing" target="_blank">正式版</a></p>
 
 ## 简介
 >上架一款自己开发并使用多年的软件，之前一直都是在命令行下使用。最近看到有很多网友在求私有频道或者私有群组的文件（视频、图片、ipa、txt、apk、音频等等）下载工具，就萌生了上架这款软件的想法。
