@@ -1,6 +1,6 @@
 ## 下载
-<p>伸手党：<a href="https://github.com/JNCoder/TelegramFD/releases" target="_blank">免费版</a></p>
-<p>土豪大老板：<a href="https://www.telegramfd.site/index.html#pricing" target="_blank">正式版</a></p>
+<p>伸手党：<a href="https://github.com/JNCoder/TelegramFD/releases">免费版</a></p>
+<p>土豪大老板：<a href="https://www.telegramfd.site/index.html#pricing">正式版</a></p>
 
 ## 温馨提示
 > 安全提示：本软件目前尚未进行代码签名。因此，在您首次运行时，Windows SmartScreen 或您的杀毒软件可能会显示安全警告。这是未签名软件的正常现象。我们保证软件本身是安全无害的，您可以选择“更多信息 (More info)” -> “仍要运行 (Run anyway)”来继续。
