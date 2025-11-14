@@ -1,4 +1,4 @@
-## 下载
+## 下载 (使用<a href="https://www.7-zip.org/" target="_blank">7-Zip</a>解压文件)
 <p>伸手党：<a href="https://github.com/JNCoder/TelegramFD/releases" target="_blank">免费版</a></p>
 <p>土豪大老板：<a href="https://www.telegramfd.site/index.html#pricing" target="_blank">正式版</a></p>
 
