@@ -77,7 +77,7 @@
 
 从以下官方渠道获取最新版本:
 
-- [官方网站](https://www.telegramfd.site.com) - 获取最新版本
+- [官方网站](https://www.telegramfd.site) - 获取最新版本
 
 ### 快速上手指南
 
