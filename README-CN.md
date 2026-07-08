@@ -3,7 +3,8 @@
 <div align="center">
   <p>
     <b>语言 | Language</b>: 
-    <a href="README.md">简体中文</a>
+    <a href="README.md">English</a>
+    <a href="README-CN.md">简体中文</a>
   </p>
 </div>
 
