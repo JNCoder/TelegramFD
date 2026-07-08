@@ -40,7 +40,6 @@
 - **📦 Batch Download** - One-click batch saving of protected media content from Telegram groups and channels.
 - **🗂️ Smart Organization** - Automatically categorize large amounts of media resources by time, type, keywords, and other dimensions.
 - **⚡ Download Speed** - High-speed downloading capability, up to 5x faster than the official client.
-- **📑 Concurrent Downloads** - Download up to 3 files simultaneously (3x the default official limit).
 
 ## 📋 Core Features
 
